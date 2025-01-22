@@ -26,7 +26,7 @@ layers:
     - {t: ⇧, s: ⇪}
     - SPACE
     - nav
-    - fun
+    - BSPC
   game:
   - - ↹
     - Q
@@ -161,8 +161,8 @@ layers:
     - F3
     - F10
   - - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
-    - {t: ▽, type: trans}
+    - {type: held}
     - {t: ▽, type: trans}
     - {t: ▽, type: trans}
     - {type: held}
+    - {t: ▽, type: trans}
